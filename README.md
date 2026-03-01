@@ -39,9 +39,9 @@ Create a .env file (see .env.example) with the following variables:
 
 BASE_URL=https://fo1.api.altius.finance
 
-EMAIL=fo1_test_user@whatever.com
+EMAIL=your_email_here
 
-PASSWORD=Test123!
+PASSWORD=your_password_here
 DEALS_VIEW=task-manage
 EXPECTED_DEAL_TITLE=Shared deal for home assignment
 
